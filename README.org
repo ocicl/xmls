@@ -1,0 +1,9 @@
+* xmls
+
+Simple, lightweight XML library for Common Lisp
+
+|---------+-----------------------------------------------------------------------|
+| source  | file:https://github.com/rpgoldman/xmls/archive/refs/tags/3.2.0.tar.gz |
+| version | 3.2.0                                                                 |
+| systems | xmls                                                                  |
+|---------+-----------------------------------------------------------------------|
